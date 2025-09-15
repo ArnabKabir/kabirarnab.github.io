@@ -1,16 +1,16 @@
-# 👋 Hi, I'm **Arnab Kabir**  
+# **Arnab Kabir**  
 **Data Science | AI | Machine Learning**
 
 ---
 
-## 📖 About Me
+## About Me
 Hi! I'm Arnab Kabir, a **Data Science graduate student** passionate about AI, machine learning, and neural networks.  
 I enjoy working on real-world problems, building intelligent systems, and exploring how data can drive meaningful insights.  
 My goal is to grow as a researcher and contribute to innovative AI solutions that make technology more accessible.
 
 ---
 
-## 🏆 Featured Project
+## Featured Project
 
 ### 🔬 Image Classification using CNN  
 Built and trained a **Convolutional Neural Network (CNN)** model to classify images into multiple categories.  
@@ -26,11 +26,11 @@ The project includes:
 
 ---
 
-## 📬 Contact Me
+## Contact Me
 Let's connect!  
-- [LinkedIn](https://linkedin.com/in/your-linkedin)  
-- [GitHub](https://github.com/yourusername)  
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/kabir-abdur-rahman-arnab-b73021149/)  
+- [GitHub](https://github.com/ArnabKabir)  
+- 📧 **Email:** [karna2@unh.newhaven.edu](mailto:karna2@unh.newhaven.edu)
 
 ---
 
