@@ -1,5 +1,5 @@
-# **Arnab Kabir**  
-**Data Science | AI | Machine Learning**
+
+# **Data Science | AI | Machine Learning**
 
 ---
 
@@ -12,7 +12,7 @@ My goal is to grow as a researcher and contribute to innovative AI solutions tha
 
 ## Featured Project
 
-### 🔬 Image Classification using CNN  
+### Image Classification using CNN  
 Built and trained a **Convolutional Neural Network (CNN)** model to classify images into multiple categories.  
 The project includes:
 - Data preprocessing  
@@ -30,10 +30,10 @@ The project includes:
 Let's connect!  
 - [LinkedIn](https://www.linkedin.com/in/kabir-abdur-rahman-arnab-b73021149/)  
 - [GitHub](https://github.com/ArnabKabir)  
-- 📧 **Email:** [karna2@unh.newhaven.edu](mailto:karna2@unh.newhaven.edu)
+- **Email:** [karna2@unh.newhaven.edu](mailto:karna2@unh.newhaven.edu)
 
 ---
 
-### 🖤 Built with HTML & CSS  
+### Built with HTML & CSS  
 © 2025 Arnab Kabir
 
