@@ -1,5 +1,5 @@
-
-# **Data Science | AI | Machine Learning**
+# **Arnab Kabir**
+**Data Science | AI | Machine Learning**
 
 ---
 
